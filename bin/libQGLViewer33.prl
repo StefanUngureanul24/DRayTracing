@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = /home/saif-chughtai/Projects/projetGeo3D_ray-tracing/build-projets_geom3d-Desktop_Qt_5_15_0_GCC_64bit-Release/QGLViewer
+QMAKE_PRO_INPUT = QGLViewer.pro
+QMAKE_PRL_TARGET = libQGLViewer33.so.1.0.0
+QMAKE_PRL_CONFIG = lex yacc exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin file_copies qmake_use qt warn_on release link_prl incremental shared shared release linux unix posix gcc qtquickcompiler opengl thread create_prl rtti no_keywords have_target dll uic opengl moc resources
+QMAKE_PRL_VERSION = 1.0.0
